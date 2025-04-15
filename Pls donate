@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dandzoboss/PlsDonate/refs/heads/main/MainScript.lua",true))()
